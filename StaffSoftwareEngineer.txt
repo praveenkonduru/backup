@@ -1,0 +1,19 @@
+Job Title	Staff Engineer 
+Position Scope	•	SME within own functional/business unit 
+•	Lead contributor on multi-dimensional projects with significant and unique components
+•	May lead functional teams and projects with complex resource requirements, risks and challenges
+•	Works independently with guidance only in complex situations
+•	Impacts the achievements of customer, operational, project or service objectives across work teams
+•	Develops new concepts, methods, and techniques for cross functional initiatives
+•	Significant impact on functional/business unit
+•	Drive timely/quality delivery against business goals, while evangelizing and improving engineering excellence.
+Functional Knowledge	•	Requires highly specialized depth and/or breadth of expertise within own function/specialty and practical knowledge of other related areas
+•	Leads cross-functional project teams
+Problem Solving & Critical Thinking	•	Solves a variety of highly complex and multifaceted problems within and/or across multiple areas
+•	Uses sophisticated analytical thought and provides unique thought leadership in evaluating issues
+Leadership	•	Guided by long-term business unit goals and objectives
+•	Determines objectives and approaches to projects across business unit
+Collaboration	•	Mentors and provides specialized technical guidance to others within own function
+•	Partners with functional leadership to influence priorities and objectives
+•	Provides technical expertise to peers in other functions
+•	Network with others in multiple functions

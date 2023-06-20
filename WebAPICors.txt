@@ -1,0 +1,8 @@
+ <httpProtocol>
+      <customHeaders>
+        <add name="Access-Control-Allow-Credentials" value="true"/>
+        <add name="Access-Control-Allow-Headers" value="Accept, Authorization, Content-Type, Origin, X-Requested-With, X-Requested-For, If-Modified-Since, Cache-Control, Pragma, Logging-CorrelationId, Logging.CorrelationId"/>
+        <add name="Access-Control-Allow-Methods" value="DELETE, POST, PUT, GET, OPTIONS"/>
+        <add name="Access-Control-Allow-Origin" value="http://localhost:57301"/>
+      </customHeaders>
+    </httpProtocol>

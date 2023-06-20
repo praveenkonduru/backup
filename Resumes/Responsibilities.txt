@@ -1,0 +1,7 @@
+Leading a team of engineers, setting technical standards, and promoting best practices.
+Developing common components, Designing architecture, code reviews.
+ Planning and executing software development projects, ensuring that they are completed on time and within budget.
+Collaborating with other teams, such as product management, design, and quality assurance, to ensure that software applications meet business requirements.
+Continuously improving the development process, tools, and methodologies to increase efficiency and effectiveness.
+Providing technical expertise in the latest technologies and trends, and staying up-to-date with industry best practices.
+Mentoring and coaching other engineers on your team, helping them develop their technical skills and career paths.
