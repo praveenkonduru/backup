@@ -1,0 +1,1 @@
+runas /user:ds\kondurup /noprofile "%comspec% /K %CD%\Start-Stop-Servicesscript.bat"

@@ -1,0 +1,121 @@
+[
+  {
+    "level": 0,
+    "members": [
+      {
+        "about": "",
+        "active": true,
+        "contact": "+1 609-851-6559",
+        "designation": "President & Founder",
+        "dp": "https://i.ibb.co/5nTnkqR/Malla.jpg",
+        "email": "malla.sap2004@gmail.com",
+        "gender": "m",
+        "message": "<p><span style=\"color: rgb(26, 26, 26);\">Welcome to the Indian Association of Greater Chicago ( IAGC) .&nbsp;</span></p><p><span style=\"color: rgb(26, 26, 26);\">I am honored to serve as President of IAGC and would like to take a moment to explain who we are and what we do.</span></p><p><span style=\"color: rgb(26, 26, 26);\">IAGC is one of the leading organizations in Chicago land area to work with community and work for community to bringing all variety of programs with free of charge.&nbsp;</span></p><p><span style=\"color: rgb(26, 26, 26);\">IAGC mission is to preserve, perpetuate and propagate the heritage of the people of Indian origin, to assist and promote cultural, educational, religious, social, economic, health and community activities of the people of Indian origin.&nbsp;</span></p><p><span style=\"color: rgb(26, 26, 26);\">All of our premier members get discounts on primer event s and discount coupons and member reserved seating etc..&nbsp;</span></p><p><span style=\"color: rgb(26, 26, 26);\">If you are not a member , I would recommend you to register today as we are offering variety of memberships.</span></p>",
+        "name": {
+          "fname": "Malla Reddy",
+          "lname": "Bokka"
+        },
+        "social": "https://www.facebook.com/malla.reddy.58"
+      },
+      {
+        "about": "",
+        "active": true,
+        "contact": "",
+        "designation": "Executive Chairman & Founder",
+        "dp": "https://i.ibb.co/NsZPBDt/Harindar-Reddy.jpg",
+        "email": "",
+        "gender": "m",
+        "message": "It's a privilege to be Executive chairman for Indian association of greater chicago, living in chicago land since last 20 years and knowing most of the important personalities i will play a key role in bringing the community leaders together and keep harmony among indian community. I use all my earlier experience that i got by serving several other organizations , in serving our community , conducting events , organizing health camps, helping the needy etc; i will try to bring young generation involve in IAGC activities and coordinate all the events and activities in making them a big success.",
+        "message2": "<p><span style=\"color: rgb(26, 26, 26);\">Welcome to the Indian Association of Greater Chicago ( IAGC) .</span></p><p><span style=\"color: rgb(26, 26, 26);\">&nbsp;</span></p><p><span style=\"color: rgb(26, 26, 26);\">I am honored to serve as President of IAGC and would like to take a moment to explain who we are and what we do.</span></p><p><br></p><p><span style=\"color: rgb(26, 26, 26);\">IAGC is one of the leading organizations in Chicago land area to work with community and work for community to bringing all variety of programs with free of charge.</span></p><p><span style=\"color: rgb(26, 26, 26);\">&nbsp;</span></p><p><span style=\"color: rgb(26, 26, 26);\">IAGC mission is to preserve, perpetuate and propagate the heritage of the people of Indian origin, to assist and promote cultural, educational, religious, social, economic, health and community activities of the people of Indian origin.</span></p><p><span style=\"color: rgb(26, 26, 26);\">&nbsp;</span></p><p><span style=\"color: rgb(26, 26, 26);\">All of our premier members get discounts on primer event s and discount coupons and member reserved seating etc..</span></p><p><span style=\"color: rgb(26, 26, 26);\">&nbsp;</span></p><p><span style=\"color: rgb(26, 26, 26);\">If you are not a member , I would recommend you to register today as we are offering variety of memberships.</span></p>",
+        "name": {
+          "fname": "Harinder Reddy",
+          "lname": "Puliyala"
+        },
+        "originalMsg": "It's a privilege to be Executive chairman for Indian association of greater chicago, living in chicago land since last 20 years and knowing most of the important personalities i will play a key role in bringing the community leaders together and keep harmony among indian community. I use all my earlier experience that i got by serving several other organizations , in serving our community , conducting events , organizing health camps, helping the needy etc; i will try to bring young generation involve in IAGC activities and coordinate all the events and activities in making them a big success.",
+        "social": "https://www.facebook.com/harindar.reddy"
+      }
+        ],
+    "title": "Precidents & Founders"
+  },
+  {
+    "level": 1,
+    "members": [
+      {
+        "about": "",
+        "active": true,
+        "contact": "",
+        "designation": "Director",
+        "dp": "/assets/images/team/Sanjay_B_Shah_Director.jpg",
+        "email": "",
+        "gender": "m",
+        "message": "",
+        "name": {
+          "fname": "Sanjay B",
+          "lname": "Shah"
+        },
+        "social": ""
+      },
+      {
+        "about": "",
+        "active": true,
+        "contact": "",
+        "designation": "Development Director",
+        "dp": "https://i.ibb.co/ngS7THZ/Nilesh.jpg",
+        "email": "",
+        "gender": "m",
+        "message": "",
+        "name": {
+          "fname": "Nilesh",
+          "lname": "Topiwala"
+        },
+        "social": ""
+      },
+      {
+        "about": "",
+        "active": true,
+        "contact": "+1 6309510012",
+        "designation": "Executive Advisory Board Chairperson",
+        "dp": "https://i.ibb.co/y6sW7Rs/Hina.jpg",
+        "email": "",
+        "gender": "f",
+        "message": "",
+        "name": {
+          "fname": "Hina",
+          "lname": "Trivedi"
+        },
+        "social": ""
+      },
+      {
+        "about": "",
+        "active": true,
+        "contact": "",
+        "designation": "Joint Treasurer",
+        "dp": "https://i.ibb.co/yVBwmtx/Rajesh.jpg",
+        "email": "",
+        "gender": "m",
+        "message": "",
+        "name": {
+          "fname": "Rajesh",
+          "lname": ""
+        },
+        "social": ""
+      },
+      {
+        "about": "",
+        "active": true,
+        "contact": "",
+        "designation": "director",
+        "dp": "https://i.ibb.co/BTMFr7Z/Murali.jpg",
+        "email": "",
+        "gender": "m",
+        "message": "",
+        "name": {
+          "fname": "Murali",
+          "lname": ""
+        },
+        "social": ""
+      }
+    ],
+    "title": "Directors"
+  }
+]
